@@ -1,0 +1,26 @@
+在树莓派上安装的Klipper
+https://www.klipper3d.org/zh/Installation.html
+
+3D打印件开源广场
+https://makerworld.com/zh
+
+Printables（打印件开源广场）
+https://www.printables.com/search/models?q=voron0&o=popular
+
+
+
+3d开源广场（挂梯子）
+https://www.thingiverse.com/
+
+沃龙安装文档（软件调试）
+https://docs.vorondesign.com/build/startup/
+
+
+
+MKS GEN_L V2.1（3D打印机主板）Klipper固件使用说明书
+https://blog.csdn.net/gjy_skyblue/article/details/121103193?spm=1001.2014.3001.5506
+
+
+
+MKS GEN_L V2.1（3D打印机主板）使用说明书
+https://blog.csdn.net/gjy_skyblue/article/details/119872104?spm=1001.2014.3001.5506
